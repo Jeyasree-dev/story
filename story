@@ -1,1 +1,1 @@
-Story name:
+Story name: "BOB"
